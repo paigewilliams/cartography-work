@@ -2,7 +2,7 @@
 
 Here are some samples of my cartographic work. 
 
-### Brochures
+### OMPOC Brochures
 
 These maps are part of a series of brochures to be distributed at Oregon Metropolitan Planning Organization Consortiums. The layout and graphics were produced by Yana Stannik and I produced the maps. These were created during my internship with Metro.
 
